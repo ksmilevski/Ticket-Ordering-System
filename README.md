@@ -7,11 +7,11 @@ This repository contains a .NET-based web application designed to manage ticket 
 ### User Application
 User Registration and Authentication: Users can register, log in, and manage their profiles, utilizing a custom implementation of the IdentityUser class.
 
-Theatre and Movie Shows Management: Users can browse all available shows, which are presented in a Grid Layout format, with 4 shows per row.
+Movies Management: Users can browse all available movies, which are presented in a Grid Layout format.
 
 Ticket Ordering: Users can view available tickets and perform CRUD operations, including adding, editing, and deleting tickets.
 
-Show Listings: A comprehensive view of all available theatre and movie shows is provided, allowing users to explore and select their preferred shows.
+Show Listings: A comprehensive view of all available movies is provided, allowing users to explore and select their preferred movies.
 ### Admin Application
 
 Order Management: The admin panel provides a detailed view of all ticket orders, with functionalities to export order data to PDF.
@@ -24,7 +24,7 @@ Export Orders and Products: Admins can export all orders or individual order det
 
 Backend: .NET, ASP.NET Core
 
-Frontend: HTML, CSS, Razor Pages
+Frontend: HTML, CSS
 
 Architecture: Onion Architecture
 
