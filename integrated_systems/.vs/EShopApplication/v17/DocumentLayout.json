@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\migrations\\20240531103609_firstt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240531103609_firstt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\migrations\\20240519164134_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240519164134_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\eshop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\eshop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\integrated_systems\\eshop.repository\\migrations\\20240531103609_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240531103609_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAKkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:09:47.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EShop.Service",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+              "RelativeDocumentMoniker": "EShop.Service\\EShop.Service.csproj",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+              "RelativeToolTip": "EShop.Service\\EShop.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T16:09:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA3wDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:09:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T16:09:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EShop.Web",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+              "RelativeDocumentMoniker": "EShop.Web\\EShop.Web.csproj",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+              "RelativeToolTip": "EShop.Web\\EShop.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T16:08:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:33:27.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwDgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:33:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Ticket.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:33:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\ShoppingCart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:33:12.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAArwLoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:32:52.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:32:50.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:32:43.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAPQBAAAAAAAAAAAYwAECAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:32:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EShop.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:31:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240531103609_firstt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240531103609_firstt.Designer.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240531103609_firstt.Designer.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240531103609_firstt.Designer.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20240531103609_firstt.Designer.cs",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAYwAQCAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:31:13.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240519164134_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240519164134_initial.Designer.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240519164134_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240519164134_initial.Designer.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20240519164134_initial.Designer.cs",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAYwAQCAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:31:00.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\appsettings.json",
+              "RelativeToolTip": "EShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T09:30:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeToolTip": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:29:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:49:02.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:39:33.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Web\\Program.cs",
+              "RelativeToolTip": "EShop.Web\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:35:41.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Movie.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Movie.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\Domain\\Movie.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:40:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EShop.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+              "RelativeDocumentMoniker": "EShop.Domain\\EShop.Domain.csproj",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+              "RelativeToolTip": "EShop.Domain\\EShop.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T10:40:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EShop.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj",
+              "RelativeDocumentMoniker": "EShop.Repository\\EShop.Repository.csproj",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj",
+              "RelativeToolTip": "EShop.Repository\\EShop.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T10:40:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240531103609_firstt.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240531103609_firstt.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240531103609_firstt.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\integrated_systems\\EShop.Repository\\Migrations\\20240531103609_firstt.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20240531103609_firstt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:36:09.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

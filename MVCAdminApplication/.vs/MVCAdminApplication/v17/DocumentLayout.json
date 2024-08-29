@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\thispc\\desktop\\fakultet\\6semestar\\is\\lab\\lab5_grupabfull\\mvcadminapplication\\mvcadminapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Program.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:28:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:42:21.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\TicketInOrder.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:03.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Order.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwGQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:59:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:59:29.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:38:41.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:44:38.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:55:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Ticket.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:02.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T15:46:59.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:47:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:47:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\Movie.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:00:59.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:00:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ThisPC\\Desktop\\fakultet\\6semestar\\is\\lab\\Lab5_GrupaBFULL\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:35:58.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
